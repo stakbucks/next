@@ -9,7 +9,7 @@ export default async function Products() {
 
   return (
     <>
-      <h1>제품 소개 페이지!</h1>
+      <h1>제품 소개 페이지!(ver2)</h1>
       <Image alt="제품소개페이지" src={clothesImg} />
       <ul>
         {products.map((product, i) => (
