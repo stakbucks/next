@@ -1,0 +1,9 @@
+.nav {
+  margin-top: 10px;
+  border: 1px solid pink;
+  padding: 5px 8px;
+}
+.nav ul {
+  display: flex;
+  gap: 20px;
+}
